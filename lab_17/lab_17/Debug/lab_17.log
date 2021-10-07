@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Kirill\Desktop\poly\programming\lab_17\lab_17\Source.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Kirill\Desktop\poly\programming\lab_17\lab_17\Source.cpp(100,16): warning C4101: element2: неиспользованная локальная переменная
+C:\Users\Kirill\Desktop\poly\programming\lab_17\lab_17\Source.cpp(101,14): warning C4101: index2: неиспользованная локальная переменная
+C:\Users\Kirill\Desktop\poly\programming\lab_17\lab_17\Source.cpp(100,6): warning C4101: element1: неиспользованная локальная переменная
+C:\Users\Kirill\Desktop\poly\programming\lab_17\lab_17\Source.cpp(101,6): warning C4101: index1: неиспользованная локальная переменная
+  lab_17.vcxproj -> C:\Users\Kirill\Desktop\poly\programming\lab_17\Debug\lab_17.exe
