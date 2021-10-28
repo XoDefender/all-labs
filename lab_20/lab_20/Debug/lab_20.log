@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Kirill\Desktop\poly\programming\lab_20\lab_20\Source.cpp(25,83): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kirill\Desktop\poly\programming\lab_20\lab_20\Source.cpp(26,83): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kirill\Desktop\poly\programming\lab_20\lab_20\Source.cpp(27,83): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kirill\Desktop\poly\programming\lab_20\lab_20\Source.cpp(313,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Kirill\Desktop\poly\programming\lab_20\lab_20\Source.cpp(21): warning C4715: checkArr: значение возвращается не при всех путях выполнения
+  lab_20.vcxproj -> C:\Users\Kirill\Desktop\poly\programming\lab_20\Debug\lab_20.exe
